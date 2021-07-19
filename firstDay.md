@@ -1,0 +1,14 @@
+## Git overview
+# What is Git. 
+# What is repository.
+# What is so called GitHub
+
+## Git installation
+# Basic window installation
+
+## Git basics
+# git init (initialization)
+# git add (file name or . for all file in directory)
+# git commit -m "message"
+# git show, log and status for logging and status preview
+# git reset HEAD filename will unstage and git checkout -- filename will revert back.
